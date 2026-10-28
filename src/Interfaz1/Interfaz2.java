@@ -39,7 +39,7 @@ public class Interfaz2 extends JFrame {
         leftPanel.add(cmbGender);
 
         leftPanel.add(new JLabel("Address"));
-        JTextField txtAddress = new JTextField("Calle 10, No. 123");
+        JTextField txtAddress = new JTextField("Calle 10, No. 1234");
         leftPanel.add(txtAddress);
 
         add(leftPanel, BorderLayout.CENTER);
